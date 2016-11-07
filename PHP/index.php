@@ -23,7 +23,7 @@ $mail->From        = 'FROM MAIL';
 $mail->FromName    = 'FROM NAME';
 $mail->WordWrap = 50; // set word wrap to 50 characters
 
-$mail->AddAddress("FROM ADDRESS");
+$mail->AddAddress("FROM Email ADDRESS");
 $mail->Subject = "SUBJECT";
 
 
