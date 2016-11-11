@@ -1,4 +1,3 @@
-<?php
 /**
  * Created by IntelliJ IDEA.
  * User: Araja Jyothi Babu
