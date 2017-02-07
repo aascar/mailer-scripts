@@ -1,3 +1,5 @@
+package com.aascar
+
 import models.{Configuration, Mail}
 
 /**
