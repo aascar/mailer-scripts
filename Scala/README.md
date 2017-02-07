@@ -1,1 +1,1 @@
-#Scala Mailer Script
+#Scala com.aascar.Mailer Script
