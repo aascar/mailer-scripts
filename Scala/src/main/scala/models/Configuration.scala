@@ -3,6 +3,10 @@ package models
 /**
   * Created by jyothi on 8/2/17.
   */
-class Configuration {
-
-}
+case class Configuration(
+                        host: String,
+                        port: Int,
+                        userName: String,
+                        password: String,
+                        startTLS: Boolean = true
+                        )
